@@ -1,7 +1,5 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/)​
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) <img src="http://mazandi.herokuapp.com/api?handle=sm021118&theme=warm"/>​
  ![sm1118sm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm1118sm&show_icons=true&theme=radical)
-
-<img src="http://mazandi.herokuapp.com/api?handle=sm021118&theme=warm"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1118sm)](https://github.com/sm1118sm/github-readme-stats)
 
