@@ -3,9 +3,9 @@
 ## 🏅 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sm1118sm&show_icons=true&hide_title=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1118sm)](https://github.com/sm1118sm/github-readme-stats) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sm1118sm&show_icons=true&hide_title=true)
 
 
 ## 🧑‍💻 기술 스택
