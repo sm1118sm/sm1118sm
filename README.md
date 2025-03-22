@@ -1,10 +1,5 @@
 <h3 align = "center"> 𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :) </h3>
 
-<br>
-<div align = "center">
-  제 Github에 방문해 주셔서 감사합니다!<br>
-</div>
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/)
 
