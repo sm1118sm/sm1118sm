@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm 이상민!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=I+love+coding+and+problem+solving!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=I+love+coding+and+problem+solving!!)](https://git.io/typing-svg)
 
 ## 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) 
