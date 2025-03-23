@@ -16,9 +16,6 @@
 ## 🏅 CodeUp
 
 <a href = "https://www.codeup.kr/userinfo.php?user=sm1118sm"> CodeUp </a>
-<p></p>
-<p></p>
-<p></p>
 
 
 
