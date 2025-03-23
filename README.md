@@ -7,6 +7,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sm1118sm&show_icons=true&hide_title=true)
 
+![Streak](파일 경로 또는 이미지 URL)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/)
+
+
 
 ## 🧑‍💻 기술 스택
 
