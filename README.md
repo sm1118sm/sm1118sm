@@ -18,3 +18,6 @@
 ## 🔗 소셜 미디어
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Goodbye!&fontSize=30)
+
