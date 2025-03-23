@@ -15,7 +15,7 @@
 
 ## 🏅 CodeUp
 
-<a href = "https://www.codeup.kr/userinfo.php?user=sm1118sm"> </a>
+<a href = "https://www.codeup.kr/userinfo.php?user=sm1118sm"> CodeUp </a>
 
 
 
