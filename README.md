@@ -20,6 +20,3 @@
 
 ## 🔗 Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
-
-## 📊 Profile Visits
-![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=sm1118sm.sm1118sm)
