@@ -1,3 +1,16 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)
+
+# 👋 Hello, I'm [Your Name]!
+### 🚀 Passionate Developer | 💡 Problem Solver | 🎯 Always Learning
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+problem+solving!)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/yourusername)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourboj)](https://solved.ac/yourboj)
+[![LeetCode](https://leetcard.jacoblin.cool/yourleetcode?theme=dark&font=Arial)](https://leetcode.com/yourleetcode)
+
+---
+
 <h1 align = "center"> 𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 </h1>
 
 ## 🏅 백준
