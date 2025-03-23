@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome+to+my+GitHub!!&fontSize=50)
 ![Header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=200&section=header&text=Welcome+to+my+GitHub!!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 
@@ -19,5 +18,3 @@
 ## 🔗 Social Media
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
