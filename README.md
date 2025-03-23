@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=Soft&color=A9D0D6&height=200&section=header&text=Welcome+to+my+GitHub!!&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=Soft&color=A9D0D6&height=200&section=header&text=Welcome+to+my+GitHub!!&fontSize=50&fontColor=000000&animation=fadeIn)
 
 
 
