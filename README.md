@@ -22,6 +22,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
 [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?logo=blogger&logoColor=white)](https://sm021118.tistory.com/)
 
-📝 커뮤니티 활동
+## 📝 커뮤니티 활동
 
 <a href = "https://cafe.naver.com/f-e/cafes/28074745/members/j2-5poQguIoilUIsx4LbaQ?tab=articles"> Do it! 스터디룸 </a>
