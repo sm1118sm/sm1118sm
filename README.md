@@ -21,6 +21,7 @@
 ## 🔗 Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
 [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?logo=blogger&logoColor=white)](https://sm021118.tistory.com/)
+[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/sm021118)
 
 ## 📝 커뮤니티 활동
 
