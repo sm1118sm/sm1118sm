@@ -20,3 +20,4 @@
 
 ## 🔗 Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
+[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?logo=blogger&logoColor=white)](https://sm021118.tistory.com/)
