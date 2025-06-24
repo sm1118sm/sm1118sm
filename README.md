@@ -25,4 +25,4 @@
 
 ## 📝 Naver Cafe
 
-[![Do it! 스터디룸](https://img.shields.io/badge/Do_it!_스터디룸-03C75A?logo=naver&logoColor=white)](https://cafe.nav
+[![Do it! 스터디룸](https://img.shields.io/badge/Do_it!_스터디룸-03C75A?logo=naver&logoColor=white)]
