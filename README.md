@@ -22,4 +22,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
 [![Tistory Blog](https://img.shields.io/badge/T-Tistory-FF5A00?style=flat&labelColor=FF5A00)](https://sm021118.tistory.com/)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/sm021118)
-[![Do it! 스터디룸](https://img.shields.io/badge/Do_it!_스터디룸-03C75A?logo=naver&logoColor=white)](https://cafe.naver.com/f-e/cafes/28074745/members/j2-5poQguIoilUIsx4LbaQ?tab=articles)
