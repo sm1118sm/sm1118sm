@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=1B263B&height=200&section=header&text=Welcome+to+my+GitHub!!&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=Rounded&color=1B263B&height=200&section=header&text=Welcome+to+my+GitHub!!&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hello, I'm 이상민!
 
