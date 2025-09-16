@@ -16,6 +16,7 @@
 
 [![CodeUp](https://img.shields.io/badge/CodeUp-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
 
+[![CodeUp](https://img.shields.io/badge/CodeUp-009688?style=for-the-badge&logo=data:image/png;base64,여기에인코딩한로고&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
 
 
 
