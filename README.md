@@ -12,7 +12,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1118sm&layout=compact&theme=vue)
 
 ## 🏅 CodeUp
-[![CodeUp](https://img.shields.io/badge/CodeUp-%23007ACC?style=for-the-badge&logoImage=https://your-server.com/codeup-logo.png)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
+[![CodeUp](https://img.shields.io/badge/CodeUp-%2300ADEF?style=for-the-badge&logoImage=https://example.com/codeup-logo.png)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
+
 
 
 
