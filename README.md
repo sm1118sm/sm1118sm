@@ -13,8 +13,9 @@
 
 ## 🏅 CodeUp
 
-<a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank">
-  <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="24" height="24">
+<a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:5px;">
+  <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="20" height="20">
+  <span style="font-size:14px; color:#333;">CodeUp 프로필</span>
 </a>
 
 ## 🧑‍💻 Tech Stack
