@@ -20,11 +20,18 @@
   </a>
 </div>
 
-<a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" 
-   style="display:inline-flex; align-items:center; gap:8px; padding:6px 12px; background:#f2f2f2; border-radius:8px; text-decoration:none; font-weight:bold; color:#333;">
-  <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="20" height="20">
-  CodeUp
-</a>
+<div style="display:flex; gap:15px;">
+  <a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" title="CodeUp">
+    <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="24" height="24">
+  </a>
+  <a href="https://github.com/yourid" target="_blank" title="GitHub">
+    <i class="fa-brands fa-github" style="font-size:24px;"></i>
+  </a>
+  <a href="https://yourblog.com" target="_blank" title="Blog">
+    <i class="fa-solid fa-blog" style="font-size:24px;"></i>
+  </a>
+</div>
+
 
 ## 🧑‍💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
