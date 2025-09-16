@@ -14,6 +14,9 @@
 ## 🏅 CodeUp
 [![CodeUp](https://img.shields.io/badge/CodeUp-%2300ADEF?style=for-the-badge&logoImage=https://example.com/codeup-logo.png)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
 
+[![CodeUp](https://img.shields.io/badge/CodeUp-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
+
+
 
 
 
