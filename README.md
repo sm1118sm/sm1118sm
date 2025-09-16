@@ -14,7 +14,7 @@
 ## 🏅 CodeUp
 
 <div style="display:flex; gap:15px;">
-  <p>링크 : </p>
+  링크 :
   <a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" title="CodeUp">
     <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="30" height="30">
   </a>
