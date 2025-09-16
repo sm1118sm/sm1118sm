@@ -13,8 +13,7 @@
 
 ## 🏅 CodeUp
 
-<span>CodeUp 프로필 : </span>
-
+<div>CodeUp 프로필 : </div>
 <a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:5px;">
   <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="20" height="20">
 </a>
