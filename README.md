@@ -12,19 +12,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1118sm&layout=compact&theme=vue)
 
 ## 🏅 CodeUp
-
-<div style="display:flex; gap:15px;">
-  링크 :  
-  <a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" title="CodeUp">
-    <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="30" height="30">
-  </a>
-  <a href="https://github.com/yourid" target="_blank" title="GitHub">
-    <i class="fa-brands fa-github" style="font-size:24px;"></i>
-  </a>
-  <a href="https://yourblog.com" target="_blank" title="Blog">
-    <i class="fa-solid fa-blog" style="font-size:24px;"></i>
-  </a>
-</div>
+[![CodeUp](https://img.shields.io/badge/CodeUp-005BAC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
 
 
 ## 🧑‍💻 Tech Stack
