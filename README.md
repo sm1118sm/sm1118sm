@@ -13,16 +13,9 @@
 
 ## 🏅 CodeUp
 
-<div>
-  CodeUp 프로필 :
-  <a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:5px;">
-    <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="20" height="20">
-  </a>
-</div>
-
 <div style="display:flex; gap:15px;">
   <a href="https://www.codeup.kr/userinfo.php?user=sm1118sm" target="_blank" title="CodeUp">
-    <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="24" height="24">
+    <img src="https://www.codeup.kr/favicon.ico" alt="CodeUp" width="30" height="30">
   </a>
   <a href="https://github.com/yourid" target="_blank" title="GitHub">
     <i class="fa-brands fa-github" style="font-size:24px;"></i>
