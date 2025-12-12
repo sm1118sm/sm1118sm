@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=I+love+coding+and+problem+solving!!)](https://git.io/typing-svg)
 
+## Certificate
+| Certificate |
+|---|
+| 데이터분석준전문가(ADsP) |
+
 ## 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) 
 
