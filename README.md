@@ -8,6 +8,7 @@
 | Certificate |
 |---|
 | 데이터분석준전문가(ADsP) |
+|---|
 | AICE BASIC |
 
 ## 🏅 Baekjoon
