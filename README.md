@@ -9,8 +9,6 @@
 
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sm021118&theme=light)](https://solved.ac/sm021118/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1118sm&layout=compact&theme=vue)
-
 ## 🏅 CodeUp
 [![CodeUp](https://img.shields.io/badge/CodeUp-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
 
