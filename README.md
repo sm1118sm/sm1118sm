@@ -6,8 +6,10 @@
 
 # Certifications
 
-![ADsP](https://img.shields.io/badge/ADsP-Certified-blue)
-![AICE Basic](https://img.shields.io/badge/AICE%20Basic-Certified-green)
+| 자격증 |
+|---|
+| **데이터분석준전문가(ADsP)** |
+| **AICE Basic** |
 
 
 ## 🏅 Baekjoon
