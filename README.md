@@ -9,7 +9,8 @@
 | 자격증 |
 | --- |
 | **데이터분석준전문가(ADsP)** |
-.
+| **AICE Basic** |
+| **AICE Basic** |
 | **AICE Basic** |
 
 
