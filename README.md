@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm 이상민!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=I+love+coding+and+problem+solving+and+I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=I+love+coding+and+problem+solving!!)](https://git.io/typing-svg)
 
 # Certifications
 
