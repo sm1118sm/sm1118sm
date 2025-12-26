@@ -31,5 +31,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sm1118sm)
 [![Tistory Blog](https://img.shields.io/badge/T-Tistory-FF5A00?style=flat&labelColor=FF5A00)](https://sm021118.tistory.com/)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/sm021118)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2d00221954bc807bbdaad6bac3412bb5?v=2d00221954bc80fc9e5a000ceb5c1a03)
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/2d00221954bc807bbdaad6bac3412bb5?v=2d00221954bc80fc9e5a000ceb5c1a03)
+
 
