@@ -33,7 +33,7 @@
 ## 🔗 Social Media
 [![Tistory Blog](https://img.shields.io/badge/T-Tistory-FF5A00?style=flat&labelColor=FF5A00)](https://sm021118.tistory.com/)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/sm021118)
-[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/BCSD-Data-Analysis-21c0221954bc808398d8c08b602d779a)
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/BCSD-DA-Data-Analyst-2f60221954bc805a90c1c30b5a4c2ce0?source=copy_link)
 
 
 
