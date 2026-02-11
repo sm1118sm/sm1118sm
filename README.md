@@ -11,7 +11,7 @@
 |----------|----------|----------|
 | Azure AI Fundamentals (AI-900) | Microsoft | 2026.02 |
 | AICE BASIC | KT | 2025.11 |
-| 데이터분석 준전문가 (ADsP) | 한국데이터산업진흥원 | 2025.07 |
+| 데이터분석 준전문가 (ADsP) | 한국데이터산업진흥원 | 2025.03 |
 
 ## 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) 
