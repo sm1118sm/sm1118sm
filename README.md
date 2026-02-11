@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=I+love+coding+and+problem+solving!!;I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
 
 
-# Certifications
+## Certifications
 
 - 데이터분석 준전문가 (ADsP)
 - Microsoft Azure AI Fundamentals (AI-900)
