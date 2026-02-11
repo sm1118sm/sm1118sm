@@ -11,6 +11,7 @@
 | --- |
 | **데이터분석준전문가(ADsP)** |
 | **AICE Basic** |
+| **Azure AI Fundamentals (AI-900)** |
 
 
 ## 🏅 Baekjoon
