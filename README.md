@@ -10,7 +10,7 @@
 | 자격증 |
 | --- |
 | **데이터분석 준전문가 (ADsP)** |
-| **AICE Basic** |
+| **AICE BASIC** |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** |
 
 
