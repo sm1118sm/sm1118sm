@@ -11,12 +11,6 @@
 - Microsoft Azure AI Fundamentals (AI-900)
 - AICE BASIC
 
-| 자격증 |
-| --- |
-| **데이터분석 준전문가 (ADsP)** |
-| **Microsoft Certified: Azure AI Fundamentals (AI-900)** |
-| **AICE BASIC** |
-
 ## 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) 
 
