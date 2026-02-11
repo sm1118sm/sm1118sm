@@ -9,8 +9,8 @@
 
 | 자격증명 | 발급기관 | 취득년도 |
 |----------|----------|----------|
-| 데이터분석 준전문가 (ADsP) | 한국데이터산업진흥원 | 2024 |
-| Azure AI Fundamentals (AI-900) | Microsoft | 2025 |
+| 데이터분석 준전문가 (ADsP) | 한국데이터산업진흥원 | 2025 |
+| Azure AI Fundamentals (AI-900) | Microsoft | 2026 |
 | AICE BASIC | KT | 2025 |
 
 ## 🏅 Baekjoon
