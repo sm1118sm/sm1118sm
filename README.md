@@ -7,6 +7,7 @@
 
 ## 📜 Certifications
 
+| |
 | **데이터분석 준전문가 (ADsP)** |
 | **Microsoft Azure AI Fundamentals (AI-900)** |
 | **AICE BASIC** |
