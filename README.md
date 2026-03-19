@@ -24,6 +24,8 @@
 **Tech Stack**  
 `Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery` `GitHub`
 
+
+
 ### 🔹 코멘토 SQL 데이터 분석 부트캠프 (2026.01 ~ 2026.02)
 
 - 실무 데이터 기반 SQL 분석 과제 수행
