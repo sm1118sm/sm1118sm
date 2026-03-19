@@ -28,7 +28,7 @@
   - 분석 결과를 기반으로 의사결정 지원 리포트 작성 경험
 
 **Tech Stack**  
-`Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery` `GitHub`
+`Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery`
 
 ---
 
