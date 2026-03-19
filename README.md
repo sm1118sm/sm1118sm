@@ -20,7 +20,6 @@
     - Funnel 분석 및 주요 전환 지표 도출
     - A/B Test 설계 및 결과 분석
     - 사용자 행동 데이터 기반 인사이트 도출
-- GitHub를 활용한 분석 프로젝트 관리 및 협업 경험
 
 **Tech Stack**  
 `Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery` `GitHub`
@@ -41,7 +40,7 @@
 
 ### 🏫 University Activities
 
-#### 🔹 BCSD 데이터 분석 트랙 Regular 활동 (2025.09 ~ 현재)
+#### 🔹 BCSD 데이터 분석 트랙 Regular 활동 (2026.01 ~ 현재)
 
 - 동아리 자체 제작 앱(Koin) 사용자 데이터 분석 참여
 - 이벤트 로그 기반 Funnel 분석 수행
@@ -63,11 +62,6 @@
 - 백준 문제 풀이 전략 교육
 - 스터디 커리큘럼 기획 및 학습 자료 제작
 
-**Algorithm Experience**
-- Baekjoon Gold II
-- 500+ 문제 해결 경험
-
-
 ## 📜 Certifications
 
 | 자격증명 | 발급기관 | 취득일 |
@@ -78,12 +72,10 @@
 
 ## 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) 
-
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sm021118&theme=light)](https://solved.ac/sm021118/)
 
 ## 🏅 CodeUp
 [![CodeUp](https://img.shields.io/badge/CodeUp-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
-
 
 ## 🧑‍💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -91,7 +83,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
 
 ## 🔗 Social Media
 [![Tistory Blog](https://img.shields.io/badge/T-Tistory-FF5A00?style=flat&labelColor=FF5A00)](https://sm021118.tistory.com/)
