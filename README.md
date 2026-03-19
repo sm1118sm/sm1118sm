@@ -4,31 +4,68 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=I+love+coding+and+problem+solving!!;I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
 
-
 ## 🏆 Activities
+
+---
 
 ### 📊 External Activities
 
-**메타코드M 데이터 분석 부트캠프**
-- Python 기반 데이터 분석 학습
-- Pandas / Numpy 데이터 처리
-- 이커머스 데이터 분석 프로젝트
+#### 🔹 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 2026.04)
 
-**코멘토 SQL 부트캠프**
-- SQL 데이터 분석 실습
-- 데이터 추출 및 분석 쿼리 작성
+- Python 기반 데이터 분석 및 머신러닝 기초 학습
+- Pandas / Numpy 활용 데이터 전처리 및 EDA 수행
+- SQL을 활용한 데이터 추출 및 분석 실습
+- Tableau 기반 데이터 시각화 및 대시보드 제작
+- 이커머스 데이터 분석 프로젝트 수행
+    - Funnel 분석 및 주요 전환 지표 도출
+    - A/B Test 설계 및 결과 분석
+    - 사용자 행동 데이터 기반 인사이트 도출
+- GitHub를 활용한 분석 프로젝트 관리 및 협업 경험
+
+**Tech Stack**  
+`Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery` `GitHub`
+
+---
+
+#### 🔹 코멘토 SQL 데이터 분석 부트캠프 (2026.01 ~ 2026.02)
+
+- 실무 데이터 기반 SQL 분석 과제 수행
+- 데이터 추출 및 가공 쿼리 작성 경험
+- JOIN / GROUP BY / Window Function 활용 분석
+- KPI 지표 산출 및 대시보드 데이터 구조 설계 경험
+
+**Tech Stack**  
+`SQL` `MySQL` `Dashboard`
 
 ---
 
 ### 🏫 University Activities
 
-**BCSD (데이터 분석 활동)**
-- 데이터 분석 스터디
-- 프로젝트 기반 분석 활동
+#### 🔹 BCSD 데이터 분석 트랙 Regular 활동 (2025.09 ~ 현재)
 
-**알고리즘 소모임 씨앗 (회장)**
-- 알고리즘 스터디 운영
-- 백준 문제 풀이 및 교육
+- 동아리 자체 제작 앱(Koin) 사용자 데이터 분석 참여
+- 이벤트 로그 기반 Funnel 분석 수행
+- 로그인 여부 영향 분석 (로지스틱 회귀 활용)
+- 시험기간 / 시간대별 사용자 행동 패턴 분석
+- 주변 상점 기능 사용성 분석 및 개선 인사이트 도출
+- A/B Test 로그 정제 및 실험 대상 사용자 정의 경험
+- 분석 결과 기반 대시보드 기획 및 시각화
+
+**Tech Stack**  
+`Python` `SQL` `BigQuery` `Tableau` `Statistics`
+
+---
+
+#### 🔹 알고리즘 소모임 씨앗 회장 (2026.03 ~ 현재)
+
+- 약 12명 규모 알고리즘 스터디 운영 및 관리
+- 자료구조 / 알고리즘 강의 진행
+- 백준 문제 풀이 전략 교육
+- 스터디 커리큘럼 기획 및 학습 자료 제작
+
+**Algorithm Experience**
+- Baekjoon Gold II
+- 500+ 문제 해결 경험
 
 
 ## 📜 Certifications
