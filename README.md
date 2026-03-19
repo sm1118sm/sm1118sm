@@ -40,7 +40,7 @@
 
 ### 🏫 University Activities
 
-#### 🔹 1. BCSD Lab 데이터 분석 트랙 Regular 활동 (2026.01 ~ 현재)
+#### 🔹 1. BCSD Lab Data Analyst Regular 활동 (2026.01 ~ 현재)
 
 - 대학교 동아리 자체 제작 앱(Koin) 사용자 데이터 분석 참여
 - 이벤트 로그 기반 Funnel 분석 수행
