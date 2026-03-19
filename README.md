@@ -12,14 +12,14 @@
 
 #### 🔹 1. 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 현재)
 
-- Python 기반 데이터 분석 및 머신러닝 기초 학습
-- Pandas / Numpy 활용 데이터 전처리 및 EDA 수행
-- SQL을 활용한 데이터 추출 및 분석 실습
-- Tableau 기반 데이터 시각화 및 대시보드 제작
-- 이커머스 데이터 분석 프로젝트 수행
-    - Funnel 분석 및 주요 전환 지표 도출
-    - A/B Test 설계 및 결과 분석
-    - 사용자 행동 데이터 기반 인사이트 도출
+    - Python 기반 데이터 분석 및 머신러닝 기초 학습
+    - Pandas / Numpy 활용 데이터 전처리 및 EDA 수행
+    - SQL을 활용한 데이터 추출 및 분석 실습
+    - Tableau 기반 데이터 시각화 및 대시보드 제작
+    - 이커머스 데이터 분석 프로젝트 수행
+        - Funnel 분석 및 주요 전환 지표 도출
+        - A/B Test 설계 및 결과 분석
+        - 사용자 행동 데이터 기반 인사이트 도출
 
 **Tech Stack**  
 `Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery` `GitHub`
