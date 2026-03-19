@@ -24,7 +24,7 @@
 **Tech Stack**  
 `Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery` `GitHub`
 
---
+---
 
 ### 🔹 코멘토 SQL 데이터 분석 부트캠프 (2026.01 ~ 2026.02)
 
@@ -52,6 +52,8 @@
 
 **Tech Stack**  
 `Python` `SQL` `BigQuery` `Tableau` `Statistics`
+
+---
 
 ### 🔹 알고리즘 소모임 씨앗 회장 (2026.03 ~ 현재)
 
