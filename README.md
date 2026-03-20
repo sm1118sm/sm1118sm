@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=I+love+coding+and+problem+solving!!;I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
 
----
-
 ## 🏆 Activities
 
 ---
