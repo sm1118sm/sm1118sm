@@ -14,17 +14,11 @@
   - Python / SQL 기반 데이터 전처리 및 EDA 수행
   - Tableau 활용 비즈니스 KPI 대시보드 구축 및 리포트 작성
 
-**Tech Stack**  
-`Python` `Pandas` `Numpy` `MySQL` `Tableau` `BigQuery`
-
 ---
 
 **코멘토 데이터 분석 부트캠프** (2026.01 ~ 2026.02)
 - JOIN 및 Window Function을 활용한 데이터 추출 최적화
 - 비즈니스 목적에 맞는 KPI 지표 수립 및 효율적인 데이터 구조 설계
-
-**Tech Stack**  
-`Redash`
 
 ---
 
@@ -33,9 +27,6 @@
 - **행동 패턴 분석:** 시험 기간 및 시간대별 활성도 분석을 통한 기능 노출 전략 제안
 - **실험 설계:** A/B Test를 위한 로그 정제 및 대상자 정의, 실험 결과의 통계적 유의성 검정
 
-**Tech Stack**  
-`Python` `BigQuery` `Tableau`
-
 ---
 
 ## 🧠 Problem Solving & Algorithm
@@ -43,9 +34,6 @@
 **알고리즘 소모임 [씨앗] 회장** (2026.03 ~ 현재)
 - **스터디 매니지먼트:** 주차별 알고리즘 커리큘럼(자료구조, DP, 그래프 등) 기획 및 강의 진행
 - **코드 리뷰:** 백준 플랫폼 기반 문제 풀이 및 시간 복잡도 최적화 전략 교육
-
-**Tech Stack**  
-`Python`
 
 ---
 
@@ -60,8 +48,6 @@
 ## 🏅 Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/) 
-
-[![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sm021118&theme=light)](https://solved.ac/sm021118/)
 
 ## 🏅 CodeUp
 
