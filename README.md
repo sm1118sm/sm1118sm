@@ -36,6 +36,8 @@
 **Tech Stack**  
 `Python` `BigQuery` `Tableau`
 
+---
+
 ## 🧠 Problem Solving & Algorithm
 
 **알고리즘 소모임 [씨앗] 회장** (2026.03 ~ 현재)
