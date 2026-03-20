@@ -37,7 +37,7 @@
 - **지표 설계:** 비즈니스 목적에 맞는 KPI 지표 수립 및 효율적인 데이터 구조 설계
 
 **Tech Stack**  
-`SQL` `MySQL` `Dashboard`
+`SQL` `Redash`
 
 ---
 
