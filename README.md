@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Problem Solving & Algorithm
+## 🌱 Problem Solving & Algorithm
 
 **알고리즘 소모임 [씨앗] 회장** (2026.03 ~ 현재)
 - **스터디 매니지먼트:** 주차별 알고리즘 커리큘럼(자료구조, DP, 그래프 등) 기획 및 강의 진행
