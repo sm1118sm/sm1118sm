@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=I+love+coding+and+problem+solving!!;I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
 
-## 🏆 Activities
+## 📊 Data Analytics Experience
 
-**1. 메타코드M 데이터 분석 부트캠프** (2025.11 ~ 현재)
+**메타코드M 데이터 분석 부트캠프** (2025.11 ~ 현재)
 
   - 사용자 행동 로그 데이터를 기반으로 Funnel 구조 정의 및 단계별 전환율 분석 수행
   - 장바구니 → 결제 단계에서 주요 이탈 지점 발견 및 개선 가설 수립
@@ -19,7 +19,7 @@
 
 ---
 
-**2. 코멘토 데이터 분석 부트캠프** (2026.01 ~ 2026.02)
+**코멘토 데이터 분석 부트캠프** (2026.01 ~ 2026.02)
 - JOIN 및 Window Function을 활용한 데이터 추출 최적화
 - 비즈니스 목적에 맞는 KPI 지표 수립 및 효율적인 데이터 구조 설계
 
@@ -28,7 +28,7 @@
 
 ---
 
-**3. BCSD Lab - 데이터 분석 트랙 Regular 활동** (2026.01 ~ 현재)
+**BCSD Lab - 데이터 분석 트랙 Regular 활동** (2026.01 ~ 현재)
 - **대학생 커뮤니티 앱 [코인(KOIN)](https://koreatech.in/) 서비스 분석:** 실사용자(DAU 1,300+) 로그 기반 유저 세그먼트 분석
 - **행동 패턴 분석:** 시험 기간 및 시간대별 활성도 분석을 통한 기능 노출 전략 제안
 - **실험 설계:** A/B Test를 위한 로그 정제 및 대상자 정의, 실험 결과의 통계적 유의성 검정
@@ -36,9 +36,9 @@
 **Tech Stack**  
 `Python` `BigQuery` `Tableau`
 
----
+## 🧠 Problem Solving & Algorithm
 
-**4. 알고리즘 소모임 [씨앗] 회장** (2026.03 ~ 현재)
+**알고리즘 소모임 [씨앗] 회장** (2026.03 ~ 현재)
 - **스터디 매니지먼트:** 주차별 알고리즘 커리큘럼(자료구조, DP, 그래프 등) 기획 및 강의 진행
 - **코드 리뷰:** 백준 플랫폼 기반 문제 풀이 및 시간 복잡도 최적화 전략 교육
 
