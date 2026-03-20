@@ -41,9 +41,9 @@
 **Tech Stack**  
 `Redash`
 
-## 🏫 University Experience
-
 ---
+
+## 🏫 University Experience
 
 **1. BCSD Lab - 데이터 분석 트랙 Regular 활동** (2026.01 ~ 현재)
 - **대학생 커뮤니티 앱 [코인(KOIN)](https://koreatech.in/) 서비스 분석:** 실사용자(DAU 1,300+) 로그 기반 유저 세그먼트 분석
