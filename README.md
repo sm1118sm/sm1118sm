@@ -8,7 +8,7 @@
 
 # 🏆 Activities
 
-## 📊 Data Analytics Activities
+## 🌏 External Activities (외부 활동)
 
 ### 🔹 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 현재)
 - 사용자 행동 로그 데이터를 기반으로 Funnel 구조 정의 및 단계별 전환율 분석 수행
@@ -25,15 +25,15 @@
 
 ---
 
+## 🏫 Campus Activities (교내 활동)
+
 ### 🔹 BCSD Lab 데이터 분석 트랙 Regular 활동 (2026.01 ~ 현재)
 - 대학생 커뮤니티 앱 **[KOIN](https://koreatech.in/)** 서비스 분석 (DAU 1,300+)
 - 사용자 로그 기반 유저 세그먼트 분석 및 행동 패턴 분석 수행
 - 시험 기간 및 시간대별 활성도 분석을 통한 기능 노출 전략 제안
-- A/B Test를 위한 로그 정제 및 대상자 정의, 실험 결과 통계적 유의성 검정
+- A/B Test 실험 설계 및 통계적 유의성 검정 수행
 
 ---
-
-## 🌱 Problem Solving & Algorithm Activities
 
 ### 🔹 알고리즘 소모임 씨앗 회장 (2026.03 ~ 현재)
 - 주차별 알고리즘 커리큘럼 기획 및 강의 진행 (자료구조 / DP / 그래프 등)
