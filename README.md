@@ -28,7 +28,7 @@
   - 분석 결과를 기반으로 의사결정 지원 리포트 작성 경험
 
 **Tech Stack**  
-`Python` `Pandas` `Numpy` `SQL` `Tableau` `BigQuery`
+`Python` `Pandas` `Numpy` `MySQL` `Tableau` `BigQuery`
 
 ---
 
@@ -37,7 +37,7 @@
 - **지표 설계:** 비즈니스 목적에 맞는 KPI 지표 수립 및 효율적인 데이터 구조 설계
 
 **Tech Stack**  
-`SQL` `Redash`
+`Redash`
 
 ---
 
