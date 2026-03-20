@@ -6,6 +6,8 @@
 
 # 🏆 Activities
 
+---
+
 ## 📊 External Experience
 
 ---
@@ -30,12 +32,16 @@
 **Tech Stack**  
 `Python` `Pandas` `Numpy` `MySQL` `Tableau` `BigQuery`
 
+---
+
 **2. 코멘토 데이터 분석 부트캠프** (2026.01 ~ 2026.02)
 - **SQL 기반 실무 과제:** 복잡한 JOIN 및 Window Function을 활용한 데이터 추출 최적화
 - **지표 설계:** 비즈니스 목적에 맞는 KPI 지표 수립 및 효율적인 데이터 구조 설계
 
 **Tech Stack**  
 `Redash`
+
+---
 
 ## 🏫 University Experience
 
@@ -48,6 +54,8 @@
 
 **Tech Stack**  
 `Python` `BigQuery` `Tableau`
+
+---
 
 **2. 알고리즘 소모임 [씨앗] 회장** (2026.03 ~ 현재)
 - **스터디 매니지먼트:** 주차별 알고리즘 커리큘럼(자료구조, DP, 그래프 등) 기획 및 강의 진행
