@@ -2,6 +2,8 @@
 
 # 👋 Hello, I'm 이상민!
 
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=I+love+coding+and+problem+solving!!;I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
 
 # 🏆 Activities
@@ -9,8 +11,6 @@
 ---
 
 ## 📊 External Experience
-
----
 
 **1. 메타코드M 데이터 분석 부트캠프** (2025.11 ~ 현재)
 
@@ -41,8 +41,6 @@
 **Tech Stack**  
 `Redash`
 
----
-
 ## 🏫 University Experience
 
 ---
@@ -64,8 +62,6 @@
 **Tech Stack**  
 `Python`
 
----
-
 # 📜 Certifications
 
 ---
@@ -76,8 +72,6 @@
 | AICE BASIC | KT | 2025.11 |
 | 데이터 분석 준전문가 (ADsP) | 한국데이터산업진흥원 | 2025.03 |
 
----
-
 # 🏅 Baekjoon
 
 ---
@@ -86,15 +80,11 @@
 
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sm021118&theme=light)](https://solved.ac/sm021118/)
 
----
-
 # 🏅 CodeUp
 
 ---
 
 [![CodeUp](https://img.shields.io/badge/CodeUp-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
-
----
 
 # 🧑‍💻 Tech Stack
 
@@ -105,8 +95,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
----
 
 # 🔗 Social Media
 
