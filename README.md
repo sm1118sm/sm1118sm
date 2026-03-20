@@ -49,7 +49,7 @@
 - **실험 설계:** A/B Test를 위한 로그 정제 및 대상자 정의, 실험 결과의 통계적 유의성 검정
 
 **Tech Stack**  
-`Python` `SQL` `BigQuery` `Tableau`
+`Python` `BigQuery` `Tableau`
 
 ---
 
