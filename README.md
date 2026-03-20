@@ -28,6 +28,8 @@
 **Tech Stack**  
 `Redash`
 
+---
+
 ## 🏫 University Experience
 
 **1. BCSD Lab - 데이터 분석 트랙 Regular 활동** (2026.01 ~ 현재)
@@ -50,8 +52,6 @@
 ---
 
 ## 📜 Certifications
-
----
 
 | 자격증명 | 발급기관 | 취득일 |
 |----------|----------|--------|
