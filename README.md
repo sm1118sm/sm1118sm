@@ -6,8 +6,6 @@
 
 ## 🏆 Activities
 
----
-
 ## 📊 External Experience
 
 **1. 메타코드M 데이터 분석 부트캠프** (2025.11 ~ 현재)
@@ -38,8 +36,6 @@
 
 **Tech Stack**  
 `Redash`
-
----
 
 ## 🏫 University Experience
 
