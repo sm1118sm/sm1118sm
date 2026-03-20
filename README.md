@@ -6,8 +6,6 @@
 
 ---
 
-# 🏆 Activities
-
 ## 🌏 External Activities (외부 활동)
 
 ### 🔹 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 현재)
