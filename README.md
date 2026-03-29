@@ -8,7 +8,7 @@
 
 ## 🌏 External Activities (외부 활동)
 
-### 🔹 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 현재)
+### 🔹 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 2026.04)
 - 이커머스 사용자 행동 로그 기반 Funnel / Retention 분석 수행
 - A/B Test 설계 및 CTR · CVR · ARPU 지표 분석
 - Python · SQL 기반 데이터 전처리 및 EDA
