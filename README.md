@@ -112,8 +112,4 @@
 
 ## 📫 Blog & Contact
 
-[![Tistory Blog](https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge\&logo=tistory\&logoColor=white)](https://sm021118.tistory.com/)
-
-[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge\&logo=naver\&logoColor=white)](https://blog.naver.com/sm021118)
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://www.notion.so/3050221954bc8019802ae9c483805c7d)
+[![Tistory Blog](https://img.shields.io/badge/T-Tistory-FF5A00?style=flat&labelColor=FF5A00)](https://sm021118.tistory.com/) [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/sm021118) [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/3050221954bc8019802ae9c483805c7d)
