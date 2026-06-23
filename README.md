@@ -38,9 +38,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
 
-### Visualization & BI
-
-![Tableau](https://img.shields.io/badge/Tableau-A9D0D6?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Tools
 
