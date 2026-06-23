@@ -16,35 +16,6 @@
 
 ---
 
-## 🎓 Education
-
-| 구분    | 내용                    |
-| ----- | --------------------- |
-| 대학교   | 한국기술교육대학교 (KOREATECH) |
-| 학과    | 컴퓨터공학부                |
-| 재학 상태 | 재학 중 (2023.03 ~ )     |
-| 전체 평점 | 4.05 / 4.5            |
-| 전공 평점 | 4.07 / 4.5            |
-
----
-
-## 🧑‍💻 Tech Stack
-
-### Language & Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
 ## 🚀 Experience
 
 ### 🔹 BCSD Lab 데이터 분석 트랙 Regular 활동 (2026.01 ~ 현재)
@@ -73,6 +44,35 @@
 * 자료구조 · DP · 그래프 등 강의 진행
 * 백준 기반 문제 풀이 및 코드 리뷰
 * 시간 복잡도 최적화 전략 교육
+
+---
+
+## 🎓 Education
+
+| 구분    | 내용                    |
+| ----- | --------------------- |
+| 대학교   | 한국기술교육대학교 (KOREATECH) |
+| 학과    | 컴퓨터공학부                |
+| 재학 상태 | 재학 중 (2023.03 ~ )     |
+| 전체 평점 | 4.05 / 4.5            |
+| 전공 평점 | 4.07 / 4.5            |
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Language & Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
