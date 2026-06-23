@@ -40,7 +40,7 @@
 
 ### Visualization & BI
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-A9D0D6?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Tools
 
