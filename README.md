@@ -6,7 +6,7 @@
 
 ## 🙋 About Me
 
-### 🔹 데이터 기반 의사결정을 지원하는 **Data Analyst**를 목표로 성장하고 있습니다.
+데이터 기반 의사결정을 지원하는 **Data Analyst**를 목표로 성장하고 있습니다.
 
 * Python · SQL 기반 데이터 분석
 * 사용자 행동 데이터 분석 및 인사이트 도출
@@ -25,6 +25,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
+
+### 🔹 Visualization & BI
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
 ### 🔹 Tools
 
