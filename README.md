@@ -38,9 +38,9 @@
 
 ---
 
-# 🚀 Projects
+## 📁 Projects
 
-## 📊 Student Lifestyle Analysis
+### 📊 Student Lifestyle Analysis
 > **Logistic Regression을 활용한 학업 성취도 예측**
 
 **기간**
@@ -58,7 +58,7 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib
 
 ---
 
-## 🎮 Game Performance & Engagement Analysis
+### 🎮 Game Performance & Engagement Analysis
 > **게임 판매량과 GPU 성능 데이터를 활용한 데이터 분석**
 
 **기간**
