@@ -38,46 +38,6 @@
 
 ---
 
-## 📁 Projects
-
-### 📊 Student Lifestyle Analysis
-> **Logistic Regression을 활용한 학업 성취도 예측**
-
-**기간**
-2026.03
-
-**기술**
-Python · Pandas · NumPy · Scikit-learn · Matplotlib
-
-**내용**
-
-- 학생 생활습관 데이터(100,000건) 분석
-- 데이터 전처리 및 EDA 수행
-- Logistic Regression 기반 성적 예측 모델 구축
-- 모델 성능 평가 및 결과 해석
-
----
-
-### 🎮 Game Performance & Engagement Analysis
-> **게임 판매량과 GPU 성능 데이터를 활용한 데이터 분석**
-
-**기간**
-2026.06
-
-**기술**
-Python · Pandas · Matplotlib · Seaborn
-
-**내용**
-
-- 게임 판매량 데이터 분석
-- GPU Benchmark 데이터 분석
-- 게임 사양 데이터 통합
-- Engagement 분석
-- Performance 분석
-- 데이터 시각화 및 인사이트 도출
-
----
-
 ## 🚀 Experience
 
 ### 🔹 BCSD Lab 데이터 분석 트랙 Regular 활동 (2026.01 ~ 현재)
