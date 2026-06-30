@@ -30,7 +30,6 @@
 
 <div style="background-color:#ffffff; display:inline-flex; align-items:center; padding:5px 8px; border-radius:6px; border:1px solid #ddd;">
   <img src="https://static.cdnlogo.com/logos/t/16/tableau.svg" height="20"/>
-  <span style="color:#ffffff; margin-left:6px; font-weight:bold;">Tableau</span>
 </div>
 
 ### 🔹 Tools
