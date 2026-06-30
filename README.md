@@ -28,9 +28,7 @@
 
 ### 🔹 Visualization & BI
 
-![Tableau](https://img.shields.io/badge/Tableau-1565C0?style=for-the-badge&logo=tableau&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-1976D2?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1565C0?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🔹 Tools
 
