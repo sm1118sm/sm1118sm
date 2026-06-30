@@ -28,7 +28,7 @@
 
 ### 🔹 Visualization & BI
 
-<div style="background-color:white; display:inline-flex; align-items:center; padding:6px 10px; border-radius:6px;">
+<div style="background-color:#ffffff; display:inline-flex; align-items:center; padding:5px 8px; border-radius:6px; border:1px solid #ddd;">
   <img src="https://static.cdnlogo.com/logos/t/16/tableau.svg" height="20"/>
 </div>
 
