@@ -28,7 +28,7 @@
 
 ### 🔹 Visualization & BI
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-1565C0?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🔹 Tools
 
