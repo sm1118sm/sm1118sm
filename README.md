@@ -28,9 +28,7 @@
 
 ### 🔹 Visualization & BI
 
-<img src="https://static.cdnlogo.com/logos/t/16/tableau.svg" 
-     height="25"
-     style="background-color:white; padding:5px;">
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🔹 Tools
 
