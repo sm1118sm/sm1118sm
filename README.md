@@ -103,14 +103,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm1118sm\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1118sm\&layout=compact)
-
----
-
 ## 📫 Blog & Contact
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge\&logo=tistory\&logoColor=white)](https://sm021118.tistory.com/)
