@@ -29,7 +29,7 @@
 ### 🔹 Visualization & BI
 
 ![Tableau](https://img.shields.io/badge/Tableau-1565C0?style=for-the-badge&logo=databricks&logoColor=white)
-<img src="https://img.shields.io/badge/Tableau-1565C0?style=for-the-badge&logoColor=white" />
+<img src="https://static.cdnlogo.com/logos/t/16/tableau.svg" height="20"/> 
 
 ### 🔹 Tools
 
