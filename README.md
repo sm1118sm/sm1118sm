@@ -56,8 +56,8 @@
 
 `Python` `Streamlit` `TextCNN` `NumPy` `MySQL` `Docker` `GitHub Actions`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-StylePick_AI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-commerce-platform-nbtk9sjwlwpfozv2wpqjfa.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sm1118sm/ai-commerce-platform)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-StylePick_AI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)]
 
 > 결제와 주문은 포트폴리오 시연용이며 실제 결제는 발생하지 않습니다.
 
