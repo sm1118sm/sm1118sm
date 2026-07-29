@@ -62,7 +62,7 @@
 
 ## 🚀 Experience
 
-### 🔹 BCSD Lab Data Analyst (DA) 트랙 Regular 활동 (2026.01 ~ 현재)
+### 🔹 BCSD Lab Data Analyst 트랙 Regular 활동 (2026.01 ~ 현재)
 
 * 대학생 커뮤니티 앱 **[KOIN](https://koreatech.in/)** 의 사용자 행동 로그 기반 서비스 데이터 분석
 * 유저 세그먼트 및 리텐션 분석 수행
