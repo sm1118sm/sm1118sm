@@ -40,6 +40,29 @@
 
 ---
 
+## 🛍️ Featured Project
+
+### 🔹 [StylePick AI](https://github.com/sm1118sm/ai-commerce-platform) — AI 개인화 이커머스 플랫폼
+
+사용자의 관심사와 검색·클릭·찜·장바구니·구매 행동을 분석해 개인별 상품과 **추천 이유**를 제공하는 AI 기반 이커머스 서비스입니다.
+
+* TextCNN 기반 상품 특징 학습 및 사용자 행동 기반 개인화 추천
+* 상품 검색·카테고리·가격 필터·정렬과 찜·장바구니 기능
+* 모의결제, 재고 차감, 주문 취소 및 주문 내역 관리
+* PBKDF2 비밀번호 해시와 세션 기반 회원 인증
+* Streamlit Community Cloud 배포 및 반응형 UI 구현
+
+**Tech Stack**
+
+`Python` `Streamlit` `TextCNN` `NumPy` `MySQL` `Docker` `GitHub Actions`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-StylePick_AI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-commerce-platform-nbtk9sjwlwpfozv2wpqjfa.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sm1118sm/ai-commerce-platform)
+
+> 결제와 주문은 포트폴리오 시연용이며 실제 결제는 발생하지 않습니다.
+
+---
+
 ## 🚀 Experience
 
 ### 🔹 BCSD Lab Data Analyst (DA) 트랙 Regular 활동 (2026.01 ~ 현재)
