@@ -42,7 +42,7 @@
 
 ## 🛍️ Featured Project
 
-### 🔹 [StylePick AI](https://github.com/sm1118sm/ai-commerce-platform) — AI 개인화 이커머스 플랫폼
+### 🔹 [StylePick AI](https://ai-commerce-platform-nbtk9sjwlwpfozv2wpqjfa.streamlit.app/) — AI 개인화 이커머스 플랫폼
 
 사용자의 관심사와 검색·클릭·찜·장바구니·구매 행동을 분석해 개인별 상품과 **추천 이유**를 제공하는 AI 기반 이커머스 서비스입니다.
 
