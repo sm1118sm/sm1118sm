@@ -29,31 +29,26 @@
 | **Visualization & BI** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Superset](https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat-square&logo=apachesuperset&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-<br>
-
 ## 🏆 수상 내역
 
 ### 🥈 KOREATECH 데이터 파이터 경진대회 · 우수상
 
 ![Rank](https://img.shields.io/badge/총_12팀_중_2위-1E90FF?style=flat-square)
-![Role](https://img.shields.io/badge/팀장-555555?style=flat-square)
-![Date](https://img.shields.io/badge/2026.09-lightgrey?style=flat-square)
+![Role](https://img.shields.io/badge/팀장-1E90FF?style=flat-square)
+![Date](https://img.shields.io/badge/2026.08_~_2026.09-lightgrey?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/정책_추천_시스템-바로가기-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://hankidae-jayuljeongong.netlify.app/)
 
 > **「자율전공 중도이탈, 우리 학교는 무엇을 하면 좋을까?」**
 > 한국기술교육대학교 자율전공 학생지원 정책 아이디어 제안
 
-<!-- 대시보드 스크린샷을 여기에 넣으면 가장 효과가 큽니다 -->
+**담당** ![](https://img.shields.io/badge/정책_총괄-555555?style=flat-square) ![](https://img.shields.io/badge/일정_관리-555555?style=flat-square) ![](https://img.shields.io/badge/정책_의사결정-555555?style=flat-square) ![](https://img.shields.io/badge/시스템_제작-555555?style=flat-square)
 
 * 대학알리미·대학 요람·학칙·전형계획 기반 자율전공 제도 및 중도이탈 구조 분석
 * 재학생 **설문 72명 및 학생 인터뷰**를 통한 문제 검증
 * A~E 5개 영역 42문항 기반 위험 진단 및 코호트별 문제 분석
 * 규칙 기반 위험군 판정 및 임계값 민감도 분석
-* 분석 결과를 바탕으로 자율전공 학생 맞춤형 정책 제안
-* 대시보드 기반 학생별 위험 영역 및 맞춤 정책 추천 결과 시각화
-
-**담당** · 정책 총괄 · 일정 관리 · 정책 의사결정 · 대시보드 제작
-
-<br>
+* 타 대학 운영 사례 기반 **정책 15종** 중 학생별 맞춤 정책 자동 추천
+* 위험군 학생의 지원 배정·조치 현황까지 관리하는 **정책 의사결정지원시스템** 구축
 
 ## 🛍️ Featured Project
 
