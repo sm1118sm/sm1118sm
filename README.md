@@ -6,11 +6,10 @@
 
 ## 🙋 About Me
 
-데이터를 통해 문제를 발견하고, 분석 결과를 실제 의사결정으로 연결하는 **Data Analyst**를 목표로 성장하고 있습니다.
+데이터를 통해 문제를 발견하고, 분석 결과를 의사결정으로 연결하는 **Data Analyst**를 목표로 성장하고 있습니다.
 
 * Python · SQL 기반 데이터 분석 및 전처리
-* 사용자 행동 데이터 기반 Funnel · Retention 분석
-* A/B Test 및 핵심 지표 분석
+* 사용자 행동 데이터 기반 Funnel · Retention · A/B Test 분석
 * Tableau · Superset 기반 데이터 시각화 및 대시보드 구축
 * 데이터 기반 문제 정의 및 인사이트 도출
 
@@ -34,8 +33,25 @@
 ### 🔹 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+## 🏆 수상 내역
+
+### 🥈 KOREATECH 데이터 파이터 경진대회
+**우수상 | 한국기술교육대학교 | 2026.09**
+
+**「자율전공 중도이탈, 우리 학교는 무엇을 하면 좋을까?」**
+
+* **총 12팀 중 2위**
+* 대학알리미·대학 요람·학칙·전형계획 기반 자율전공 제도 및 중도이탈 구조 분석
+* 재학생 **설문 72명 및 학생 인터뷰**를 통한 문제 검증
+* A~E 5개 영역 42문항 기반 위험 진단 및 코호트별 문제 분석
+* 규칙 기반 위험군 판정 및 임계값 민감도 분석
+* 분석 결과를 바탕으로 자율전공 학생 맞춤형 정책 제안
+* 대시보드 기반 학생별 위험 영역 및 맞춤 정책 추천 결과 시각화
+* **팀장 | 정책 총괄 · 일정 관리 · 정책 의사결정 · 대시보드 제작**
 
 ---
 
@@ -48,7 +64,6 @@
 * TextCNN 기반 상품 특징 학습 및 사용자 행동 기반 개인화 추천
 * 상품 검색·카테고리·가격 필터·정렬 및 찜·장바구니 기능 구현
 * 모의결제·재고 차감·주문 취소·주문 내역 관리 구현
-* PBKDF2 기반 비밀번호 해시 및 세션 기반 회원 인증
 * Streamlit Community Cloud 배포 및 반응형 UI 구현
 
 **Tech Stack**
@@ -61,7 +76,8 @@
 
 ## 🚀 Experience
 
-### 🔹 BCSD Lab Data Analyst 트랙 Regular (2026.01 ~ 현재)
+### 🔹 BCSD Lab Data Analyst 트랙 Regular
+**2026.01 ~ 현재**
 
 * 대학생 커뮤니티 앱 **[KOIN](https://koreatech.in/)** 사용자 행동 로그 기반 서비스 데이터 분석
 * 사용자 세그먼트 및 Retention 분석
@@ -71,17 +87,18 @@
 
 ---
 
-### 🔹 메타코드M 데이터 분석 부트캠프 (2025.11 ~ 2026.04)
+### 🔹 메타코드M 데이터 분석 부트캠프
+**2025.11 ~ 2026.04**
 
-* 이커머스 사용자 행동 로그 기반 Funnel 분석
-* 사용자 Retention 및 행동 패턴 분석
+* 이커머스 사용자 행동 로그 기반 Funnel 분석 및 이탈 구간 진단
 * A/B Test 설계 및 CTR · CVR · ARPU 분석
 * Python · SQL 기반 데이터 전처리 및 EDA
 * Tableau 기반 KPI 대시보드 구축
 
 ---
 
-### 🔹 교내 알고리즘 소모임 씨앗 회장 (2026.03 ~ 2026.06)
+### 🔹 교내 알고리즘 소모임 씨앗 회장
+**2026.03 ~ 2026.06**
 
 * 주차별 알고리즘 커리큘럼 기획 및 운영
 * 자료구조 · DP · 그래프 등 알고리즘 강의 진행
@@ -90,33 +107,13 @@
 
 ---
 
-## 🏆 Awards
-
-### 🥈 KOREATECH 데이터 파이터 경진대회 — 우수상
-**한국기술교육대학교 | 2026.09**
-
-**「자율전공 중도이탈, 우리 학교는 무엇을 하면 좋을까?」**
-
-* **총 12팀 중 2위, 우수상 수상**
-* 대학알리미·대학 요람·학칙·전형계획 기반 자율전공 제도 및 중도이탈 구조 분석
-* 재학생 **설문 72명 및 학생 인터뷰**를 통한 문제 검증
-* A~E 5개 영역 42문항 기반 위험 진단 및 코호트별 문제 분석
-* 규칙 기반 위험군 판정 및 임계값 민감도 분석
-* 분석 결과를 바탕으로 자율전공 학생 맞춤형 정책 제안
-* 대시보드 기반 학생별 위험 영역 및 맞춤 정책 추천 결과 시각화
-* **팀장 | 정책 총괄 · 일정 관리 · 정책 의사결정 · 대시보드 제작**
-
----
-
 ## 🎓 Education
 
 | 구분 | 내용 |
 | --- | --- |
-| 대학교 | 한국기술교육대학교 (KOREATECH) |
-| 학과 | 컴퓨터공학부 |
+| 대학교 | 한국기술교육대학교 (KOREATECH) · 컴퓨터공학부 |
 | 재학 상태 | 재학 중 (2023.03 ~ ) |
-| 전체 평점 | 4.05 / 4.5 |
-| 전공 평점 | 4.08 / 4.5 |
+| 학점 | 전체 4.05 / 4.5 · 전공 4.08 / 4.5 |
 
 ---
 
@@ -133,11 +130,7 @@
 
 ## 🏅 Problem Solving
 
-### Baekjoon
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm021118)](https://solved.ac/sm021118/)
-
-### CodeUp
 
 [![CodeUp](https://img.shields.io/badge/CodeUp-1E90FF?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://www.codeup.kr/userinfo.php?user=sm1118sm)
 
