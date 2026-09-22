@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hello, I'm 이상민!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=I+love+coding+and+problem+solving!!;I+am+working+hard+to+become+a+data+analyst.)](https://git.io/typing-svg)
@@ -9,8 +7,6 @@
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=tistory&logoColor=white)](https://sm021118.tistory.com/)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/sm021118)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3050221954bc8019802ae9c483805c7d)
-
-</div>
 
 <br>
 
