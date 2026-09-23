@@ -60,25 +60,6 @@
 
 ---
 
-## 🛍️ Featured Project
-
-### 🔹 [StylePick AI](https://ai-commerce-platform-nbtk9sjwlwpfozv2wpqjfa.streamlit.app/) — AI 개인화 이커머스 플랫폼
-
-사용자의 검색·클릭·찜·장바구니·구매 행동을 기반으로 개인별 상품과 **추천 이유**를 제공하는 AI 기반 이커머스 서비스입니다.
-
-* TextCNN 기반 상품 특징 학습 및 사용자 행동 기반 개인화 추천
-* 상품 검색·카테고리·가격 필터·정렬 및 찜·장바구니 기능 구현
-* 모의결제·재고 차감·주문 취소·주문 내역 관리 구현
-* Streamlit Community Cloud 배포 및 반응형 UI 구현
-
-**Tech Stack**
-
-`Python` `Streamlit` `TextCNN` `NumPy` `MySQL` `Docker` `GitHub Actions`
-
-> 결제와 주문 기능은 포트폴리오 시연을 위한 모의 기능이며 실제 결제는 발생하지 않습니다.
-
----
-
 ## 🚀 Experience
 
 ### 🔹 BCSD Lab Data Analyst 트랙 Regular (2026.01 ~ 현재)
@@ -106,6 +87,25 @@
 * 자료구조 · DP · 그래프 등 알고리즘 강의 진행
 * 백준 기반 문제 풀이 및 코드 리뷰
 * 시간 복잡도 및 알고리즘 최적화 전략 교육
+
+---
+
+## 🛍️ Project
+
+### 🔹 [StylePick AI](https://ai-commerce-platform-nbtk9sjwlwpfozv2wpqjfa.streamlit.app/) — AI 개인화 이커머스 플랫폼
+
+사용자의 검색·클릭·찜·장바구니·구매 행동을 기반으로 개인별 상품과 **추천 이유**를 제공하는 AI 기반 이커머스 서비스입니다.
+
+* TextCNN 기반 상품 특징 학습 및 사용자 행동 기반 개인화 추천
+* 상품 검색·카테고리·가격 필터·정렬 및 찜·장바구니 기능 구현
+* 모의결제·재고 차감·주문 취소·주문 내역 관리 구현
+* Streamlit Community Cloud 배포 및 반응형 UI 구현
+
+**Tech Stack**
+
+`Python` `Streamlit` `TextCNN` `NumPy` `MySQL` `Docker` `GitHub Actions`
+
+> 결제와 주문 기능은 포트폴리오 시연을 위한 모의 기능이며 실제 결제는 발생하지 않습니다.
 
 ---
 
