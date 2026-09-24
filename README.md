@@ -8,11 +8,6 @@
 
 데이터를 통해 문제를 발견하고, 분석 결과를 의사결정으로 연결하는 **Data Analyst**를 목표로 성장하고 있습니다.
 
-* Python · SQL 기반 데이터 분석 및 전처리
-* 사용자 행동 데이터 기반 Funnel · Retention · A/B Test 분석
-* Tableau · Superset 기반 데이터 시각화 및 대시보드 구축
-* 데이터 기반 문제 정의 및 인사이트 도출
-
 ---
 
 ## 🧑‍💻 Tech Stack
