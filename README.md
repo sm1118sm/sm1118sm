@@ -102,6 +102,25 @@
 
 > 결제와 주문 기능은 포트폴리오 시연을 위한 모의 기능이며 실제 결제는 발생하지 않습니다.
 
+### 🔹 [스터디모아](https://studycafe-tan.vercel.app/) — 스터디카페 통합 예약·비교 플랫폼 (2026.11)
+
+전국 스터디카페를 지역·이용 조건별로 비교하고, 원하는 시간과 좌석을 예약하는 데이터베이스설계 팀 프로젝트입니다.
+
+* 카카오맵 API 기반 전국 스터디카페 정보 수집 및 지역별 검색 구현
+* 좌석 유형·이용권별 예시 요금 비교와 선택한 시간의 잔여석 조회
+* 회원가입·로그인 및 예약 생성·변경·취소·내역 관리 구현
+* MySQL 트랜잭션과 좌석 잠금 기반 중복 예약 방지
+* Aiven MySQL 연동 및 GitHub·Vercel 기반 자동 배포
+* 로그인·예약·장애 복구 회귀 테스트와 GitHub Actions 자동 검사 구성
+
+**Tech Stack**
+
+`JavaScript` `Node.js` `Express` `MySQL` `Kakao Maps API` `Aiven` `Vercel` `GitHub Actions`
+
+🔗 **[GitHub 저장소](https://github.com/sm1118sm/DatabaseProject)**
+
+> 카페 이름·주소·위치는 카카오맵 정보이며, 요금·좌석 수와 일부 예약은 학습·시연용 데이터입니다. 실제 매장 예약이나 결제는 발생하지 않습니다.
+
 ---
 
 ## 🎓 Education
