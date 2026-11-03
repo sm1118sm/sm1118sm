@@ -117,8 +117,6 @@
 
 `JavaScript` `Node.js` `Express` `MySQL` `Kakao Maps API` `Aiven` `Vercel` `GitHub Actions`
 
-🔗 **[GitHub 저장소](https://github.com/sm1118sm/DatabaseProject)**
-
 > 카페 이름·주소·위치는 카카오맵 정보이며, 요금·좌석 수와 일부 예약은 학습·시연용 데이터입니다. 실제 매장 예약이나 결제는 발생하지 않습니다.
 
 ---
